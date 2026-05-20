@@ -15,3 +15,5 @@ x = 100
 print(x, type(x))
 x = "convert to string"
 print(x, type(x))
+
+print(x, type(height))
